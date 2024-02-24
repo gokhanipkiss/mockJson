@@ -35,7 +35,7 @@
     }
   ],
 
-  places: [
+  "places": [
     {
 		"id":1,
 		"name": "Ankapark",
@@ -56,7 +56,7 @@
     }
   ],
   
-  stories: [
+  "stories": [
 	  {
 		"id": 1,
 		"name": "Gizemli Tarsus Kazısı",
