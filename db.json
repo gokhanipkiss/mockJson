@@ -1,81 +1,81 @@
 {
-  users: [
+  "users": [
     { 
-	  id: 1,
-      name: "Hakan",
-      age: "23",
-      sex: "M",
-      email: "abcd@acb.com",
-      password: "",
-      location: "Ankara",
-      persona: "myst",
-      badges: ["", ""]
+      "id": 1,
+      "name": "Hakan",
+      "age": "23",
+      "sex": "M",
+      "email": "abcd@acb.com",
+      "password": "",
+      "location": "Ankara",
+      "persona": "myst",
+      "badges": ["", ""]
     },
     { 
-	  id: 2,
-      name: "Ahmet",
-      age: "32",
-      sex: "M",
-      email: "ddd@ddd.com",
-      password: "",
-      location: "Konya",
-      persona:"adv",
-      badges: []
+      "id": 2,
+      "name": "Ahmet",
+      "age": "32",
+      "sex": "M",
+      "email": "ddd@ddd.com",
+      "password": "",
+      "location": "Konya",
+      "persona":"adv",
+      "badges": []
     },
     {
-	  id:3,
-      name: "Esin",
-      age: "41",
-      sex: "F",
-      email: "sedf@asss.com",
-      password: "",
-      location: "Istanbul",
-      persona:"hist",
-      badges:[""]
+	  "id":3,
+      "name": "Esin",
+      "age": "41",
+      "sex": "F",
+      "email": "sedf@asss.com",
+      "password": "",
+      "location": "Istanbul",
+      "persona":"hist",
+      "badges":[""]
     }
   ],
 
   places: [
     {
-		id:1,
-		name: "Ankapark",
-		location: "Ankara",
-		categories: ["arch","hist","trend"]
+		"id":1,
+		"name": "Ankapark",
+		"location": "Ankara",
+		"categories": ["arch","hist","trend"]
     },
 	{
-		id:2,
-		name: "Yerebatan Sarnıcı",
-		location: "İstanbul",
-		categories: ["arch","trend"]
+		"id":2,
+		"name": "Yerebatan Sarnıcı",
+		"location": "İstanbul",
+		"categories": ["arch","trend"]
     },
 	{
-		id:3,
-		name: "Manyetik Yol",
-		location:"Erzurum",
-		categories: ["hist"]
+		"id":3,
+		"name": "Manyetik Yol",
+		"location":"Erzurum",
+		"categories": ["hist"]
     }
   ],
   
   stories: [
 	  {
-		id:1,
-		name:"Gizemli Tarsus Kazısı",
-		categories:["myst"],
-		body: "Şaibeli bir kurşunun hedefi olan polis memurunun ölümüyle.."	
+		"id": 1,
+		"name": "Gizemli Tarsus Kazısı",
+		"categories": ["myst"],
+		"body": "Şaibeli bir kurşunun hedefi olan polis memurunun ölümüyle.."	
 	  },
 	  {
-		id:2,
-		name:"Takunyalı Tezveren ",
-		categories:["hist"],
-		body: "Anlatıya göre Tezveren Baba ayakları olmayan ve bu sebeple ellerine
+		"id": 2,
+		"name": "Takunyalı Tezveren ",
+		"categories": ["hist"],
+		"body": "Anlatıya göre Tezveren Baba ayakları olmayan ve bu sebeple ellerine
 				takunya geçirerek..."	
 	  },
 	  {
-		id:3,
-		name:"Ankara’nın Gizemli
+		"id": 3,
+		"name": "Ankara’nın Gizemli
 			Piramitleri",
-		categories:["adv", "mist"],
-		body: "Mitolojide dokunduğu her şeyi altına dönüştürdüğüne..."	
+		"categories": ["adv", "mist"],
+		"body": "Mitolojide dokunduğu her şeyi altına dönüştürdüğüne..."	
 	  },	  
   ]
   
