@@ -9,8 +9,8 @@
       "password": "Abcd.3456",
       "location": "Ankara",
       "persona": "myst",
-      "badges": ["", ""],
-	"friendCount": 12
+      "badges": ["badge2", "badge3"],
+      "friendCount": 12
     },
     { 
       "id": 5,
@@ -21,8 +21,8 @@
       "password": "1",
       "location": "Konya",
       "persona":"adv",
-      "badges": [],
-	    "friendCount": 5
+      "badges": ["badge1", "badge2", "badge3"],
+      "friendCount": 5
     },
     {
       "id":3,
@@ -33,8 +33,8 @@
       "password": "333444_aBc",
       "location": "Istanbul",
       "persona":"hist",
-      "badges":[""],
-	    "friendCount": 21
+      "badges":["badge1"],
+      "friendCount": 21
     }
   ],
 
