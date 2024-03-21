@@ -2,7 +2,7 @@
   "users": [
     { 
       "id": 1,
-      "name": "Hakan",
+      "name": "Hakan Atakan",
       "age": "23",
       "sex": "M",
       "email": "abcd@acb.com",
@@ -13,7 +13,7 @@
     },
     { 
       "id": 5,
-      "name": "Ahmet",
+      "name": "Ahmet Yıldız",
       "age": "32",
       "sex": "M",
       "email": "ddd@ddd.com",
@@ -24,7 +24,7 @@
     },
     {
       "id":3,
-      "name": "Esin",
+      "name": "Esin Şahin",
       "age": "41",
       "sex": "F",
       "email": "sedf@asss.com",
