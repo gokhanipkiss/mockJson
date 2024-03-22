@@ -10,7 +10,8 @@
       "location": "Ankara",
       "persona": "myst",
       "badges": ["badge2", "badge3"],
-      "friendCount": 12
+      "friendCount": 12,
+	"memories": []
     },
     { 
       "id": 5,
@@ -22,7 +23,8 @@
       "location": "Konya",
       "persona":"adv",
       "badges": ["badge1", "badge2", "badge3"],
-      "friendCount": 5
+      "friendCount": 5,
+	"memories": ["Anı 1", "Anı 2", "Anı 3"]
     },
     {
       "id":3,
@@ -34,7 +36,8 @@
       "location": "Istanbul",
       "persona":"hist",
       "badges":["badge1"],
-      "friendCount": 21
+      "friendCount": 21,
+      "memories": ["Anı 1"]
     }
   ],
 
