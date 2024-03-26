@@ -81,6 +81,39 @@
 		"categories": ["adv", "mist"],
 		"body": "Mitolojide dokunduğu her şeyi altına dönüştürdüğüne..."	
 	  }	  
-  ]
-  
+  ],
+
+"tours": [
+	{
+		"id":1,
+		"name": "Kahırlar Köyü",
+		"leader": "Ruhi Akdeniz",
+		"leaderTitle": "En sevilen lider",
+		"body": "Mezar soyguncularının başına gelen esrarengiz olayların izini sürüyoruz."
+	},
+	{
+		"id":2,
+		"name": "Takunyalı Tezveren",
+		"leader": "Sevda Dernek",
+		"leaderTitle": "En sevilen lider",
+		"body": "Tezveren Sultan Anadolu'nun en bilinen kadın evliyalarından biridir."
+	},
+	{	
+		"id":3,
+		"name": "Yerebatan Sarnıcı",
+		"leader": "Emre Aydın",
+		"leaderTitle": "En sevilen lider",
+		"body": "İstanbul sokaklarının altında bir Bizans mühendisliği harikası."
+	},
+	{
+		"id":4,
+		"name": "Cebeci Asri Mezarlığı",
+		"leader": "Emre Aydın",
+		"leaderTitle": "En sevilen lider",
+		"body": "1935 yılında Martin Elsaesser tarafından tasarlan mezarlığı geziyoruz."
+		
+	}
+	
+]
+	
 }
