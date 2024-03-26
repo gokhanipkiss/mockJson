@@ -45,19 +45,19 @@
     {
 		"id":1,
 		"name": "Ankapark",
-		"location": "Ankara",
+		"location": "Ankara, Türkiye",
 		"categories": ["arch","hist","trend"]
     },
 	{
 		"id":2,
 		"name": "Yerebatan Sarnıcı",
-		"location": "İstanbul",
+		"location": "İstanbul, Türkiye",
 		"categories": ["arch","trend"]
     },
 	{
 		"id":3,
 		"name": "Manyetik Yol",
-		"location":"Erzurum",
+		"location":"Erzurum, Türkiye",
 		"categories": ["hist"]
     }
   ],
